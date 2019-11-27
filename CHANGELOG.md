@@ -1,3 +1,4 @@
+########
 # URI.js - Changelog #
 
 The release notes tracked in this document are also made available on the [releases page](https://github.com/medialize/URI.js/releases)
